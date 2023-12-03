@@ -1,0 +1,15 @@
+C:\petr_ne_budy\c# vs\lesson1\lesson1\lesson1\bin\Debug\net8.0\lesson1.exe
+C:\petr_ne_budy\c# vs\lesson1\lesson1\lesson1\bin\Debug\net8.0\lesson1.deps.json
+C:\petr_ne_budy\c# vs\lesson1\lesson1\lesson1\bin\Debug\net8.0\lesson1.runtimeconfig.json
+C:\petr_ne_budy\c# vs\lesson1\lesson1\lesson1\bin\Debug\net8.0\lesson1.dll
+C:\petr_ne_budy\c# vs\lesson1\lesson1\lesson1\bin\Debug\net8.0\lesson1.pdb
+C:\petr_ne_budy\c# vs\lesson1\lesson1\lesson1\obj\Debug\net8.0\lesson1.GeneratedMSBuildEditorConfig.editorconfig
+C:\petr_ne_budy\c# vs\lesson1\lesson1\lesson1\obj\Debug\net8.0\lesson1.AssemblyInfoInputs.cache
+C:\petr_ne_budy\c# vs\lesson1\lesson1\lesson1\obj\Debug\net8.0\lesson1.AssemblyInfo.cs
+C:\petr_ne_budy\c# vs\lesson1\lesson1\lesson1\obj\Debug\net8.0\lesson1.csproj.CoreCompileInputs.cache
+C:\petr_ne_budy\c# vs\lesson1\lesson1\lesson1\obj\Debug\net8.0\lesson1.sourcelink.json
+C:\petr_ne_budy\c# vs\lesson1\lesson1\lesson1\obj\Debug\net8.0\lesson1.dll
+C:\petr_ne_budy\c# vs\lesson1\lesson1\lesson1\obj\Debug\net8.0\refint\lesson1.dll
+C:\petr_ne_budy\c# vs\lesson1\lesson1\lesson1\obj\Debug\net8.0\lesson1.pdb
+C:\petr_ne_budy\c# vs\lesson1\lesson1\lesson1\obj\Debug\net8.0\lesson1.genruntimeconfig.cache
+C:\petr_ne_budy\c# vs\lesson1\lesson1\lesson1\obj\Debug\net8.0\ref\lesson1.dll

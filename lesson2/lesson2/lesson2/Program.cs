@@ -4,14 +4,14 @@
     static void Main(string[] args)
     {
         int[,] array = { { 7, 3, 2 }, { 4, 9, 6 }, { 1, 8, 5 } };
-        int[,] array2 = new int[3,3];
+        int[,] array2 = new int[3, 3];
         int[,] sorting(int[,] array, int[,] array2)
         {
             int z = 0;
             int[] array3 = new int[9];
             for (int i = 0; i < array.GetLength(0); i++)
             {
-                for (int j = 0; j < array.GetLength(1) ; j++)
+                for (int j = 0; j < array.GetLength(1); j++)
                 {
                     array3[z] = array[i, j];
                     z++;
